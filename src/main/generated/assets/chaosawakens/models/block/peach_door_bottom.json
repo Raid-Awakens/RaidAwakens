@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_bottom",
-  "textures": {
-    "bottom": "chaosawakens:block/peach_door_bottom",
-    "top": "chaosawakens:block/peach_door_top"
-  }
-}

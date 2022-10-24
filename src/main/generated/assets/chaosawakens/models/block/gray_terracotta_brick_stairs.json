@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "side": "chaosawakens:block/gray_terracotta_bricks",
-    "bottom": "chaosawakens:block/gray_terracotta_bricks",
-    "top": "chaosawakens:block/gray_terracotta_bricks"
-  }
-}

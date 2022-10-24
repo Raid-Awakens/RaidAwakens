@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_bottom_rh",
-  "textures": {
-    "bottom": "chaosawakens:block/ginkgo_door_bottom",
-    "top": "chaosawakens:block/ginkgo_door_top"
-  }
-}

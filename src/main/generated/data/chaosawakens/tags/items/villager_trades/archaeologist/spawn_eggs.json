@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "#chaosawakens:villager_trades/archaeologist/spawn_eggs/common",
-    "#chaosawakens:villager_trades/archaeologist/spawn_eggs/uncommon",
-    "#chaosawakens:villager_trades/archaeologist/spawn_eggs/rare",
-    "#chaosawakens:villager_trades/archaeologist/spawn_eggs/epic"
-  ]
-}

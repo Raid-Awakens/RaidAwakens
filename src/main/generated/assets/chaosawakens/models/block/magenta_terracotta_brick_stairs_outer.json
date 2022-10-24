@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "side": "chaosawakens:block/magenta_terracotta_bricks",
-    "bottom": "chaosawakens:block/magenta_terracotta_bricks",
-    "top": "chaosawakens:block/magenta_terracotta_bricks"
-  }
-}

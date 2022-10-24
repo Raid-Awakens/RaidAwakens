@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "side": "chaosawakens:block/copper_block",
-    "front": "chaosawakens:block/copper_defossilizer_front",
-    "top": "chaosawakens:block/copper_defossilizer_top"
-  }
-}

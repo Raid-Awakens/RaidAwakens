@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "side": "chaosawakens:block/ginkgo_planks",
-    "bottom": "chaosawakens:block/ginkgo_planks",
-    "top": "chaosawakens:block/ginkgo_planks"
-  }
-}

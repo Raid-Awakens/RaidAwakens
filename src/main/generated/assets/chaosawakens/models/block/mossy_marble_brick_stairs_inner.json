@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "side": "chaosawakens:block/mossy_marble_bricks",
-    "bottom": "chaosawakens:block/mossy_marble_bricks",
-    "top": "chaosawakens:block/mossy_marble_bricks"
-  }
-}

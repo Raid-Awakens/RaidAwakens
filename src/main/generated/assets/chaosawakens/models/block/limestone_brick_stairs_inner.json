@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/inner_stairs",
-  "textures": {
-    "side": "chaosawakens:block/limestone_bricks",
-    "bottom": "chaosawakens:block/limestone_bricks",
-    "top": "chaosawakens:block/limestone_bricks"
-  }
-}
