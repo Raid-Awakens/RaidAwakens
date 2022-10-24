@@ -1,7 +1,12 @@
 # ChaosAwakens
-ChaosAwakens is a successor mod for OreSpawn. This is the Branch for the 1.16.5 version
+Raid Awakens is a mod which adds new tools and Bosses.
+
+Join out discord serve: https://discord.gg/nCYExEQ4UH
+
+Raid Awakens Credits: negacem925
 
 
+Chaos Awakens Creidts
 **Project Lead:** TheyCallMeRandom
 
 **Coders:** Meme Man, WeirdNerd, Asbestosstar, Yanbere, Blackout, LuisRandomness
